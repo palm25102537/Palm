@@ -17,17 +17,20 @@ ___
 </p>
 <!-- or just use - to separate your sh-t -->
 
-- Python 
-- Ruby 
-- ETC
+- HTML
+- CSS
+- JAVASCRIPT
+- React
+- Angular
 
 ## My Hobbies & Interest
 - Anime
+- Game
 - etc.
 
 ## My Favourite Game of all times
 - LoL.
-
+- Hades
 
 
 ## My Social Media 
