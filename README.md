@@ -3,7 +3,16 @@
 ### I am a 
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning HTML CSS JAVASCRIPT TYPESCRIPT FRAMEWORK REACT ANGULAR VUEJS BACKEND NODEJS 
+- 🌱 I’m currently learning 
+   HTML 
+   CSS 
+   JAVASCRIPT 
+   TYPESCRIPT 
+   FRAMEWORK 
+   REACT 
+   ANGULAR 
+   VUEJS 
+   BACKEND NODEJS 
 - 👯 I’m looking to collaborate on ...
 - 📫 How to reach me: ...
 
