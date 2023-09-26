@@ -1,4 +1,4 @@
-# Greeting, My name is Wasin Hongnak 👋
+# Greeting, My name is Palm 👋
 
 ### I am a 
 
